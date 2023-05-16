@@ -1,3 +1,5 @@
+// Interface nya
+
 public interface gajelas {
     public void setnama(String nama);
     public void setalamat(String alamat);
